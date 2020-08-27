@@ -1,2 +1,5 @@
 # TryKinFu
-Try KinectFusion implemented in OpenCV
+
+I tried KinectFusion implemented on OpenCV.
+
+![kinfu](./figs/trykinfu.PNG)
